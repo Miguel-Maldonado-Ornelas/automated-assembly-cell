@@ -33,4 +33,5 @@ The automated assembly sequence has been tested and validated in simulation.
 ## Author
 
 **Miguel Maldonado Ornelas**
-Mechatronics Engineer
+Mechatronics Engineer<img width="1917" height="982" alt="HMI Main Screen png" src="https://github.com/user-attachments/assets/fcbdbc9e-4dde-4ce0-82d1-666c1d4f59fb" />
+
